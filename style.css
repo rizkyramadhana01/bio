@@ -73,6 +73,7 @@ a{
 }
 .banner{
     background-image: url(cloude.png);
+    background-size: cover;
     color: #0d7377;
 }
 .banner h1{
