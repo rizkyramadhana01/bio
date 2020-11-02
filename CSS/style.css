@@ -273,6 +273,11 @@ footer{
     background-color: #212121;
     color: white;
     padding: 30px;
+    text-align: center;
+}
+footer .us{
+    text-align: center;
+    padding-top: 10px;
 }
 @media screen and (max-width: 900px){
     h1{
